@@ -250,7 +250,7 @@ const projects = [
     description: "An Template designed using HTML and CSS.",
     image: "/projects/company.png",
     tech: ["CSS"],
-    github: "",
+    github: "https://github.com/GHAGDEEPPRAVIN/DG-CSS/tree/main/Company%20website",
     viewLive: "",
   },
   {
