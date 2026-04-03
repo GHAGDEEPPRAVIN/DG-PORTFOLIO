@@ -74,11 +74,11 @@ export default function Home() {
         >
           <TypeAnimation
             sequence={[
-              "Full Stack Developer 💻",
+              "Full Stack Developer ",
               2000,
-              "MERN Stack Developer 🚀",
+              "MERN Stack Developer ",
               2000,
-              "React Developer ⚛️",
+              "React Developer ",
               2000,
             ]}
             speed={50}

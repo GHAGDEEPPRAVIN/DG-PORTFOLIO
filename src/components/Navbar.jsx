@@ -137,7 +137,7 @@ export default function Navbar() {
             {/* Resume Button */}
             <li>
               <a
-                href="/resume/Deep-Developer-Resume.pdf"
+                href="/resume/Deep-Ghag-Resume.pdf"
                 className="px-4 py-1 border border-indigo-500 rounded-full hover:bg-indigo-500 transition"
               >
                 Resume
